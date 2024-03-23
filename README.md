@@ -13,9 +13,7 @@ I'm actively seeking opportunities for a software engineering internship startin
 
 You can view my CV [here](https://github.com/AAYSHAA/AAYSHA/files/14733808/AAYSHA.FAZAL.MOHAMED.pdf).
 
-## 🎉 Fun GIF
-
-![Fun GIF](https://media.giphy.com/media/26FfglQ3SVUzivt0k/giphy.gif)
+![Fun GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFoeGF4NW1wNDZoMWoxOHc4b2lpbmx5bmxpZWJ1bzE2bHpta3J4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif)
 
 ## 🌱 What I'm Learning
 
