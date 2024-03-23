@@ -6,7 +6,8 @@ Hey there! I'm Aaysha Fazal Mohamed, a software engineering enthusiast currently
 
 ## 🚀 What I'm Looking For
 
-I'm actively seeking opportunities for a software engineering internship starting [Month Year]. If you know of any exciting opportunities or would like to discuss potential collaborations, feel free to reach out to me via [email](mailto:aayshafazalmohamed@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aayshafazalmohamed/).
+I'm actively seeking opportunities for a software engineering internship!
+If you know of any exciting opportunities or would like to discuss potential collaborations, feel free to reach out to me via [email](mailto:aayshafazalmohamed@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aayshafazalmohamed/).
 
 ## 📄 PDF CV
 
@@ -22,20 +23,7 @@ Currently, I'm learning about:
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-github-AAYSHA)
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username)
-## 📊 GitHub Stats
-
-![GitHub Stats]([![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats))
-
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAYSHAA&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)
-
-
-
 
 ## 💼 Skills
 
@@ -58,7 +46,8 @@ Connect with me:
 
 ## 📈 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.herokuapp.com/?user=AAYSHAA)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AAYSHAA)](https://git.io/streak-stats)
+
 
 ## 🌟 GitHub Skyline
 
