@@ -7,11 +7,11 @@ Affiliated with the University of Westminster, UK.
 
 ## 🚀 What I'm Looking For
 
-I'm actively seeking opportunities for a software engineering internship starting [Month Year]. If you know of any exciting opportunities or would like to discuss potential collaborations, feel free to reach out to me via [email](mailto:your_email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your_linkedin).
+I'm actively seeking opportunities for a software engineering internship starting [Month Year]. If you know of any exciting opportunities or would like to discuss potential collaborations, feel free to reach out to me via [email](mailto:aayshafazalmohamed@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aayshafazalmohamed/).
 
 ## 📄 PDF CV
 
-You can view my CV [here](link_to_your_cv.pdf).
+You can view my CV [here](https://github.com/AAYSHAA/AAYSHA/files/14733808/AAYSHA.FAZAL.MOHAMED.pdf).
 
 ## 🎉 Fun GIF
 
