@@ -22,7 +22,20 @@ Currently, I'm learning about:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAYSHAA&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-github-AAYSHA)
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username)
+## 📊 GitHub Stats
+
+![GitHub Stats]([![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats))
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAYSHAA&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)
+
+
+
 
 ## 💼 Skills
 
