@@ -2,8 +2,7 @@
 
 ## About Me ℹ️
 
-Hey there! I'm Aaysha Fazal Mohamed, a software engineering enthusiast currently seeking opportunities as a Software Engineering Intern. I'm passionate about building innovative solutions and eager to learn and grow in a professional environment. Currently pursuing Software Engineering in Informatics Institute of Technology (IIT), Sri Lanka
-Affiliated with the University of Westminster, UK.
+Hey there! I'm Aaysha Fazal Mohamed, a software engineering enthusiast currently seeking opportunities as a Software Engineering Intern. I'm passionate about building innovative solutions and eager to learn and grow in a professional environment. Currently pursuing Software Engineering at the Informatics Institute of Technology (IIT), Sri Lanka, affiliated with the University of Westminster, UK.
 
 ## 🚀 What I'm Looking For
 
@@ -23,7 +22,7 @@ Currently, I'm learning about:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAYSHAA&show_icons=true&theme=radical)
 
 ## 💼 Skills
 
@@ -41,12 +40,12 @@ Currently, I'm learning about:
 
 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your_linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/your_username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aayshafazalmohamed/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/AAYSHAA)
 
 ## 📈 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=your_username)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.herokuapp.com/?user=AAYSHAA)](https://git.io/streak-stats)
 
 ## 🌟 GitHub Skyline
 
