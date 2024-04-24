@@ -70,3 +70,7 @@ Connect with me:
   [Here 2](https://github.com/AAYSHAA/AAYSHAA/files/14746123/w1956175_Aaysha_Fazal_Mohamed_CW2.pdf)
 
 - [Database Management Systems](https://github.com/AAYSHAA/AAYSHAA/files/14746133/Aaysha_Fazal_Mohamed_w1956175DBMS.pdf)
+
+- [Datastructures and Algorithm]()[Aaysha_Mohamed_w1956175_20221493.pdf][Algo_CW_20221493_W1956175.zip](https://github.com/AAYSHAA/AAYSHA/files/15099554/Algo_CW_20221493_W1956175.zip)
+(https://github.com/AAYSHAA/AAYSHA/files/15099552/Aaysha_Mohamed_w1956175_20221493.pdf)
+
