@@ -69,8 +69,8 @@ Connect with me:
   [Here 1](https://github.com/AAYSHAA/AAYSHAA/files/14746144/W1956175_Aaysha.Fazal.Mohamed_Individual.Report_SEPP1.pdf)
   [Here 2](https://github.com/AAYSHAA/AAYSHAA/files/14746123/w1956175_Aaysha_Fazal_Mohamed_CW2.pdf)
 
-- [Database Management Systems](https://github.com/AAYSHAA/AAYSHAA/files/14746133/Aaysha_Fazal_Mohamed_w1956175DBMS.pdf)
+- Database Management Systems [Here](https://github.com/AAYSHAA/AAYSHAA/files/14746133/Aaysha_Fazal_Mohamed_w1956175DBMS.pdf)
 
-- [Datastructures and Algorithm]()[Aaysha_Mohamed_w1956175_20221493.pdf][Algo_CW_20221493_W1956175.zip](https://github.com/AAYSHAA/AAYSHA/files/15099554/Algo_CW_20221493_W1956175.zip)
-(https://github.com/AAYSHAA/AAYSHA/files/15099552/Aaysha_Mohamed_w1956175_20221493.pdf)
+- Datastructures and Algorithm [Here](https://github.com/AAYSHAA/AAYSHA/files/15099552/Aaysha_Mohamed_w1956175_20221493.pdf) --> Algo_CW-ZIP [CODE](https://github.com/AAYSHAA/AAYSHA/files/15099554/Algo_CW_20221493_W1956175.zip)
+
 
