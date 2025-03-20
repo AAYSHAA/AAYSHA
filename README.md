@@ -73,6 +73,5 @@ Connect with me:
 
 - Datastructures and Algorithm [Here](https://github.com/AAYSHAA/AAYSHA/files/15099552/Aaysha_Mohamed_w1956175_20221493.pdf) --> Algo_CW-ZIP [CODE](https://github.com/AAYSHAA/AAYSHA/files/15099554/Algo_CW_20221493_W1956175.zip)
 
+[![Visitor Count](https://visitcount.itsvg.in/api?id=AAYSHAA&label=Visitors&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
-
-[![](https://visitcount.itsvg.in/api?id=AAYSHAA&label=&color=12&icon=3&pretty=false)](https://visitcount.itsvg.in)
